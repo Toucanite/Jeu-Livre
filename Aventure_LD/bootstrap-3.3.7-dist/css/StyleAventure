@@ -1,5 +1,6 @@
 .jumbotron{
     margin-top: 50px;
+    box-shadow: 1px 1px 40px;
 }
 .leTitre{
     text-align: center;
