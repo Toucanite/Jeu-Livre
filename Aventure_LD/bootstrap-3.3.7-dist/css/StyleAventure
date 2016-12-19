@@ -1,0 +1,24 @@
+.jumbotron{
+    margin-top: 50px;
+}
+.leTitre{
+    text-align: center;
+}
+.representation{
+    text-align: center;
+}
+.histoire{
+    margin: 20px;
+}
+#HommeChute{
+    height: 70%;
+    width: 70%;
+}
+.sorciere{
+    height: 50%;
+    width: 50%;
+}
+.boutonRecommencer{
+    position: absolute;
+    margin-top: 50px;
+}
